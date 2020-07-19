@@ -38,7 +38,7 @@
 *
 *   Ak je vetktor od (0,0,0) smerujuci k (3,4,5) jeho velkost je 7.07
 *
-*   Odporucam pozriet https://onlinemschool.com/math/assistance/vector/length/
+*  Odporucam pozriet https://onlinemschool.com/math/assistance/vector/length/
 *
 *
 *  Vo vseobecnost vsak vektor nemusi mat dlzku 2 alebo 3, ale vektorLength
@@ -47,12 +47,11 @@
 double velkost(const int vektor[], int vektorLength)
 {
     double velkost = 0.0;
-
-    for (unsigned int i = 0; i < vektorLength; ++i)
-    {
-        velkost += pow(vektor[i], 2);
-    }
-    return sqrt(velkost);
+    
+   // TODO Dopis podla poziadaviek vyssie 
+   
+   
+  return velkost;
 }
 
 /*
