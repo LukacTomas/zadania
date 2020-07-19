@@ -1,6 +1,6 @@
 # Zadania pre predmet PRJ na SPŠS Fajnroka
 
-Vo vsetkych zadaniach 1 - 4 si musis zvolit aspon tri zo zoznamu ponuknutych. Zoznam zadani je nasledovny:
+Vo všetkých zadaniach 1 - 4 si musíš zvoliť aspoň tri zo zoznamu ponúknutých. Zoznam zadaní je nasledovný:
 
 - **Problem set 0 - Scratch**
 
@@ -31,4 +31,4 @@ Vo vsetkych zadaniach 1 - 4 si musis zvolit aspon tri zo zoznamu ponuknutych. Zo
   - Matematické funkcie
   - Početnosť miním a maxím
   - Vektorová algebra
-  - \*\*\*Vypíš prvých N maxím: + 10 bodov
+  - \*\*\*Výpis prvých N maxím: + 10 bodov
