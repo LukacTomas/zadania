@@ -2,7 +2,7 @@
 
 Vo všetkých zadaniach 1 - 4 si musíš zvoliť aspoň tri zo zoznamu ponúknutých. Zoznam zadaní je nasledovný:
 
-- **[Problem set 0 - Scratch](https://github.com/LukacTomas/zadania/blob/master/Problem%20set%200%20-%20Scratch/Problem%20set%200%20-%20scratch.pdf){:target="_blank" rel="noopener"}**
+- **[Problem set 0 - Scratch](https://github.com/LukacTomas/zadania/blob/master/Problem%20set%200%20-%20Scratch/Problem%20set%200%20-%20scratch.pdf)**
 
 - **[Problem set 1 - C - základy](https://github.com/LukacTomas/zadania/blob/master/Problem%20set%201%20-%20C%20-%20z%C3%A1klady/Problem%20set%201%20-%20C%20-%20z%C3%A1klady.pdf)**
 
