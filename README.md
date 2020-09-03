@@ -7,7 +7,7 @@ Vo všetkých zadaniach 1 - 4 si musíš zvoliť aspoň tri zo zoznamu ponúknut
 - **[Problem set 1 - C - základy](https://github.com/LukacTomas/zadania/blob/master/Problem%20set%201%20-%20C%20-%20z%C3%A1klady/Problem%20set%201%20-%20C%20-%20z%C3%A1klady.pdf)**
 
   - Pravouhlý trojuholník
-  - Konveryia farieb z CMYK do RGB
+  - Konverzia farieb z CMYK do RGB
   - Súčin, súčet, rozdiel, delenie, zaokrúhli
   - \*\*\*Konverzia farieb z RGB do CMYK +5bodov naviac
 
